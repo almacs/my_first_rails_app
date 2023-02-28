@@ -1,0 +1,18 @@
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/home/acarvajal/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/acarvajal/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-7i0gp8 sitelibdir\=./.gem.20230228-10097-7i0gp8 clean
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-7i0gp8 sitelibdir\=./.gem.20230228-10097-7i0gp8
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-7i0gp8 sitelibdir\=./.gem.20230228-10097-7i0gp8 install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20230228-10097-7i0gp8/bootsnap
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-7i0gp8 sitelibdir\=./.gem.20230228-10097-7i0gp8 clean

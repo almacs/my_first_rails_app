@@ -1,0 +1,20 @@
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+/home/acarvajal/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/acarvajal/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-oqx2ic sitelibdir\=./.gem.20230228-10097-oqx2ic clean
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-oqx2ic sitelibdir\=./.gem.20230228-10097-oqx2ic
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-oqx2ic sitelibdir\=./.gem.20230228-10097-oqx2ic install
+/usr/bin/install -m 0755 cparse.so ./.gem.20230228-10097-oqx2ic/racc
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-oqx2ic sitelibdir\=./.gem.20230228-10097-oqx2ic clean

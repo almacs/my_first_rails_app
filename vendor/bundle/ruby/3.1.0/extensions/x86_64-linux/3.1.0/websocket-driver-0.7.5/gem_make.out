@@ -1,0 +1,18 @@
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/acarvajal/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/acarvajal/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-ilkraz sitelibdir\=./.gem.20230228-10097-ilkraz clean
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-ilkraz sitelibdir\=./.gem.20230228-10097-ilkraz
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-ilkraz sitelibdir\=./.gem.20230228-10097-ilkraz install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20230228-10097-ilkraz
+
+current directory: /mnt/c/alma/RubyOnRails/odin_proj/my_first_rails_app/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230228-10097-ilkraz sitelibdir\=./.gem.20230228-10097-ilkraz clean
